@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'WTPTEST'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B11D8F8E5445476E9C202E736ABCCF80 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C27DFAA8F24C4E18B4F6A90D79AD21C0 }}
           package: '*.war'
